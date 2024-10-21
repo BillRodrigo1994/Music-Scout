@@ -51,7 +51,6 @@ h2 {
   transform: translate(-50%, -50%);
 }
 
-/* Overlay */
 .overlay {
   position: fixed;
   top: 0;
@@ -62,7 +61,6 @@ h2 {
   z-index: 1; 
 }
 
-/* Main content frame */
 .frame {
   width: 100%;
   height: 100vh; 
